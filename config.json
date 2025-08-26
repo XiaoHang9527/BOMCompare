@@ -1,0 +1,38 @@
+{
+    "field_mappings": {
+        "Item": [
+            "Item",
+            "item",
+            "序号",
+            "Number"
+        ],
+        "P/N": [
+            "P/N",
+            "料号",
+            "物料编码",
+            "物料编号",
+            "Part Number",
+            "型号"
+        ],
+        "Reference": [
+            "Reference",
+            "Ref",
+            "ref",
+            "位号"
+        ],
+        "Description": [
+            "Description",
+            "描述",
+            "物料描述"
+        ],
+        "MPN": [
+            "Manufacturer P/N",
+            "MPN",
+            "制造商料号",
+            "厂家料号",
+            "生产商料号"
+        ]
+    },
+    "show_mpn_in_report": false,
+    "last_dir": "D:/Code/BOM_CompareV1.4/示例文件"
+}
